@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Summary
 
- - This presentation is one half of the assignemnt of the course Developing Data Products, week 4.
+ - This presentation is part of the assignment for course Developing Data Products, week 4, on Coursera.org.
 
  - The presentation was generated using ***RStudio***(<https://www.rstudio.com>) and ***Slidify***(<http://slidify.org>) framework.
 
