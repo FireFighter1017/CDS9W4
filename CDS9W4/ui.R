@@ -10,14 +10,10 @@
 library(shiny)
 library(ggplot2)
 
-# Adds support for graphical tooltips and popovers, in order to enrich de UI.
-library(shinyBS) 
-# Adds Bootstrap themes to a Shiny app.
 library(shinythemes)
 
 dataset <- diamonds
 
-# 'mtcars' dataset, user for setting up limits in UI widgets.
 data("mtcars")
 minCylinders = min(mtcars$cyl)
 maxCylinders = max(mtcars$cyl)
