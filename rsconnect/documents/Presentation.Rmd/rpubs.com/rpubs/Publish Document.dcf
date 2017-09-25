@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/311526/c5efbe91315846c6994a07735538b330
+bundleId: https://api.rpubs.com/api/v1/document/311526/c5efbe91315846c6994a07735538b330
+url: http://rpubs.com/FireFighter1017/311526
+when: 1506319824.86225
